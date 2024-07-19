@@ -1,3 +1,6 @@
 [submodule "themes/blist"]
 	path = themes/blist
 	url = https://github.com/apvarun/blist-hugo-theme.git
+[submodule "public"]
+	path = public
+	url = https://github.com/7emoutyX/7emoutyx.github.io.git
