@@ -66,4 +66,4 @@ For more information and detailed documentation, please visit our [GitHub reposi
 
 ---
 
-**Note**: Ensure that the paths to your images (`/images/stm32_schematic.png`, `/images/stm32_layout.png`, `/images/stm32_assembled_board.png`, and `/images/stm32_performance.png`) are correct and that the images are placed in the appropriate directory within your Hugo project.
+

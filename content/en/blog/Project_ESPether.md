@@ -3,7 +3,7 @@ title: "ESP32-12E Dev Board"
 author: DAOUDI MOHAMMED
 date: 2024-07-19T15:35:00+01:00
 description: "A custom development board featuring the ESP32-12E MCU, an Ethernet port, and JST connectors for I/O interfacing."
-tags: ["about-us", "me", "contact"]
+tags: ["esp32", "me", "pcb"]
 thumbnail: "/pcb2/pcb2.jpg"
 ---
 
@@ -60,4 +60,3 @@ For more information and detailed documentation, please visit our [GitHub reposi
 
 ---
 
-**Note**: Ensure that the paths to your images (`/images/esp32_schematic.png`, `/images/esp32_layout.png`, `/images/esp32_assembled_board.png`, and `/images/esp32_performance.png`) are correct and that the images are placed in the appropriate directory within your Hugo project.
