@@ -12,9 +12,9 @@ DefaultContentLanguageInSubdir = true
     languageName = "English"
     [languages.en.params]
       introTitle = "Hey! I'm DAOUDI"
-      introSubtitle = "22 y/o junior embedded/electronics engineer who enjoys wires,electrons and C"
-      introPhoto = "/profile.jpg"
-      logo = "/blist-logo.png"
+      introSubtitle = "A 22yo passionate electronics and embedded systems engineering student from Morocco , ENSA-Kénitra .I Love C++ , Rust , Electronics and other electrical stuff ..."
+      introPhoto = "/pic.png"
+      logo = "/logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
@@ -56,9 +56,8 @@ DefaultContentLanguageInSubdir = true
     "link",
     "author"
   ]
-
   # Custom copyright - optional
-  copyright = "Copyright © 2021 - DAOUDI MOHAMMED · All rights reserved"
+  copyright = "Copyright © 2024 - DAOUDI MOHAMMED · All rights reserved"
   favicon = "/favicon.svg"
 
   # Color for the intro details and social links block, not applicable for dark mode
@@ -112,59 +111,23 @@ DefaultContentLanguageInSubdir = true
 [params.homepage.social]
   # Global params common for both languages
   title = "Follow me"
-  description = "I work on everything coding and tweet developer memes"
+  description = "More about my works in my socials"
 
-  [[params.homepage.social.icons]]
-    website = "twitter"
-    url = "https://twitter.com/"
   [[params.homepage.social.icons]]
     website = "linkedin"
     url = "https://linkedin.com/in/"
   [[params.homepage.social.icons]]
-    website = "xing"
-    url = "https://www.xing.com/profile/"
-  [[params.homepage.social.icons]]
-    website = "telegram"
-    url = "https://t.me/"
-  [[params.homepage.social.icons]]
     website = "github"
     url = "https://github.com/"
-  [[params.homepage.social.icons]]
-    website = "buymeacoffee"
-    url = "https://www.buymeacoffee.com/"
   [[params.homepage.social.icons]]
     website = "medium"
     url = "https://medium.com/"
   [[params.homepage.social.icons]]
-    website = "reddit"
-    url = "https://reddit.com/"
-  [[params.homepage.social.icons]]
-    website = "dribbble"
-    url = "https://dribbble.com/"
-  [[params.homepage.social.icons]]
-    website = "stackoverflow"
-    url = "https://stackoverflow.com/"
-  [[params.homepage.social.icons]]
-    website = "xda"
-    url = "https://forum.xda-developers.com/"
-  [[params.homepage.social.icons]]
-    website = "tiktok"
-    url = "https://tiktok.com"
-  [[params.homepage.social.icons]]
-    website = "googlescholar"
-    url = "https://scholar.google.com/"
-  [[params.homepage.social.icons]]
-    website = "mastodon"
-    url = "https://joinmastodon.org"
-  [[params.homepage.social.icons]]
-    website = "youtube"
-    url = "https://youtube.com"
-  [[params.homepage.social.icons]]
     website = "instagram"
     url = "https://instagram.com"
   [[params.homepage.social.icons]]
-    website = "facebook"
-    url = "https://facebook.com"
+    website = "twitter"
+    url = "https://twitter.com/"
   [[params.homepage.social.icons]]
     website = "behance"
     url = "https://behance.net"
